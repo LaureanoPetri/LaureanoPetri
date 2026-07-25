@@ -1,16 +1,13 @@
-## Hi there 👋
+Backend Developer (Python) — Open to remote freelance work
 
-<!--
-**LaureanoPetri/LaureanoPetri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Advanced Computer Science student at the Universidad Nacional de Cuyo (UNCuyo, Argentina), building backend systems with Python and modern web technologies. I design APIs, model databases, and ship full-stack projects from the database to deployment.
 
-Here are some ideas to get you started:
+Currently available for remote freelance projects, full-time or part-time, with clients anywhere in the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Featured project
+
+Pagina-LMA — a league and tournament management platform with a custom ELO ranking engine. Backend: FastAPI + PostgreSQL + SQLAlchemy · Frontend: React + TypeScript + Tailwind CSS
+
+📫 Contact
+
+📧 laureanopetri@gmail.com 🔗 LinkedIn 📍 Mendoza, Argentina — Remote
